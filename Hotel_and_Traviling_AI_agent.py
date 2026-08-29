@@ -148,7 +148,7 @@ def recommend_hotel(suitable_hotels, budget):
 # DISPLAY RESULTS
 # -------------------------------
 
-def display_results(hotels_found):
+def display_results(found_hotels):
 
     print("\n===== AVAILABLE HOTELS =====")
 
